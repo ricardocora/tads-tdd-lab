@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a431f888-69b1-41f0-a4a6-77d82c2283e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifpr/models/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ifpr/models/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifpr/models/Locacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ifpr/models/Locacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifpr/services/LocacaoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ifpr/services/LocacaoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifpr/utils/DataUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ifpr/utils/DataUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ifpr/services/LocacaoServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ifpr/services/LocacaoServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UJV2KbTKGLvtRTQc1mU7yS1QSr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="JUnit.LocacaoServiceTest.testeLocacao">
+    <configuration name="LocacaoServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tads-tdd-lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ifpr.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ifpr.services" />
+      <option name="MAIN_CLASS_NAME" value="ifpr.services.LocacaoServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocacaoServiceTest.naoPodeAlugarFilmeSemEstoque" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tads-tdd-lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ifpr.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ifpr.services" />
+      <option name="MAIN_CLASS_NAME" value="ifpr.services.LocacaoServiceTest" />
+      <option name="METHOD_NAME" value="naoPodeAlugarFilmeSemEstoque" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocacaoServiceTest.naoPodeAlugarFilmeSemEstoque2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tads-tdd-lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ifpr.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ifpr.services" />
+      <option name="MAIN_CLASS_NAME" value="ifpr.services.LocacaoServiceTest" />
+      <option name="METHOD_NAME" value="naoPodeAlugarFilmeSemEstoque2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocacaoServiceTest.naoPodeAlugarFilmeSemEstoque3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tads-tdd-lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ifpr.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ifpr.services" />
+      <option name="MAIN_CLASS_NAME" value="ifpr.services.LocacaoServiceTest" />
+      <option name="METHOD_NAME" value="naoPodeAlugarFilmeSemEstoque3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocacaoServiceTest.testeLocacao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tads-tdd-lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ifpr.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ifpr.services" />
+      <option name="MAIN_CLASS_NAME" value="ifpr.services.LocacaoServiceTest" />
+      <option name="METHOD_NAME" value="testeLocacao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LocacaoServiceTest.testeLocacao" />
+        <item itemvalue="JUnit.LocacaoServiceTest" />
+        <item itemvalue="JUnit.LocacaoServiceTest.naoPodeAlugarFilmeSemEstoque" />
+        <item itemvalue="JUnit.LocacaoServiceTest.naoPodeAlugarFilmeSemEstoque2" />
+        <item itemvalue="JUnit.LocacaoServiceTest.naoPodeAlugarFilmeSemEstoque3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a431f888-69b1-41f0-a4a6-77d82c2283e9" name="Default Changelist" comment="" />
+      <created>1575074477369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575074477369</updated>
+      <workItem from="1575074480003" duration="540000" />
+      <workItem from="1575231133058" duration="4128000" />
+      <workItem from="1575381610491" duration="6530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575074700761">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1575074700761" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1575395187031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1575232029828" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575395187031" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1575395187030">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1575232029828" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575395187030" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1575395187030">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1575232029828" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575395187030" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1575395187030">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1575232029828" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575395187030" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1575395187031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575395187031" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1575395187031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1575395187031" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1575395187031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1575395187031" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1575395187031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1575395187031" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1575231204225">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1575231204225" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1575381874888">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1575231150001" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1575381874888" />
+  </component>
+</project>
